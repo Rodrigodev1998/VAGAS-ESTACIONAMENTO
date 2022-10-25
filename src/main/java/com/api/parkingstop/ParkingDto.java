@@ -25,4 +25,6 @@ public class ParkingDto {
     private String apartment;
     @NotBlank
     private String block;
+
+    private String test;
 }
